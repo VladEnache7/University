@@ -2,7 +2,7 @@
 Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. This includes homework & extra projects that I have made for the university. To see the code for an assignment, just select what subject you are interested in, and then select the assignment (ex: Data Structures and Algorithms -> ADT Matrix and you have the code there)
 
 * :closed_book: Semester 1
-  - [Algebra](https://github.com/913AliceHincu/Algebra) - python
+  - [Algebra](https://github.com/912-enache-vlad/Algebra/tree/main) 
   - [Computational Logic](https://github.com/913AliceHincu/operations_conversions) - python
   - [Computer System Architecture](https://github.com/913AliceHincu/Computer-System-Architecture) - assembly
   - [Fundamentals of programming](https://github.com/913AliceHincu/-Fundamentals-of-Programming-/tree/main) - python  
