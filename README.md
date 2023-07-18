@@ -4,7 +4,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 * :closed_book: Semester 1
   - [Algebra](https://github.com/912-enache-vlad/Algebra/tree/main) 
   - [Computational Logic](https://github.com/912-enache-vlad/Computational-Logic)
-  - [Computer System Architecture](https://github.com/913AliceHincu/Computer-System-Architecture) - assembly
+  - [Computer System Architecture](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - assembly
   - [Fundamentals of programming](https://github.com/913AliceHincu/-Fundamentals-of-Programming-/tree/main) - python  
 * :green_book: Semester 2
   - [Data Structures and Algorithms](https://github.com/913AliceHincu/Data-Structures-and-Algorithms) - c++
