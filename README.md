@@ -5,7 +5,8 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Algebra](https://github.com/912-enache-vlad/Algebra/tree/main) 
   - [Computational Logic](https://github.com/912-enache-vlad/Computational-Logic)
   - [Computer System Architecture](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - assembly
-  - [Fundamentals of programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - python  
+  - [Fundamentals of programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - python
+  - [Mathematical Analysis](https://github.com/912-enache-vlad/Mathematical-Analysis)
 * :green_book: Semester 2
   - [Data Structures and Algorithms](https://github.com/913AliceHincu/Data-Structures-and-Algorithms) - c++
   - [Dyamical Systems](https://github.com/AliceHincu/Dynamical-Systems) - maple
