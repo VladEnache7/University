@@ -13,4 +13,4 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Geometry](https://github.com/912-enache-vlad/Geometry) - maple
   - [Graphs](https://github.com/912-enache-vlad/Graph-Algorithms) - python/c++
   - [Object-Oriented-Programming](https://github.com/912-enache-vlad/Object-Oriented-Programming) - c/c++
-  - [Operating Systems](https://github.com/AliceHincu/Operating-Systems) - c
+  - [Operating Systems](https://github.com/912-enache-vlad/Operating-Systems) - c
