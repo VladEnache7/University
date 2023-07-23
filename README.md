@@ -9,8 +9,8 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Mathematical Analysis](https://github.com/912-enache-vlad/Mathematical-Analysis)
 * :green_book: Semester 2
   - [Data Structures and Algorithms](https://github.com/912-enache-vlad/Data-Structures-and-Algorithms) - c++
-  - [Dyamical Systems](https://github.com/AliceHincu/Dynamical-Systems) - maple
-  - [Geometry](https://github.com/AliceHincu/Geometry) - maple
+  - [Dyamical Systems](https://github.com/912-enache-vlad/Dynamical-Systems) - maple
+  - [Geometry](https://github.com/912-enache-vlad/Geometry) - maple
   - [Graphs](https://github.com/912-enache-vlad/Graph-Algorithms) - python/c++
   - [Object-Oriented-Programming](https://github.com/912-enache-vlad/Object-Oriented-Programming) - c/c++
   - [Operating Systems](https://github.com/AliceHincu/Operating-Systems) - c
