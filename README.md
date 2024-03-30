@@ -1,7 +1,4 @@
-<p align="center">
 
- <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Vlad Enache 👋 I'm a 🚀 Romanian developer 🚀 Extremely motivated">
-</p>
 # University
 Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. This includes homework & extra projects that I have made for the university. To see the code for an assignment, just select what subject you are interested in, and then select the assignment (ex: Data Structures and Algorithms -> ADT Matrix and you have the code there)
 
