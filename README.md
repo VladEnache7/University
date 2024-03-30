@@ -25,11 +25,11 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [🔧Operating Systems](https://github.com/912-enache-vlad/Operating-Systems) - c
   - 
 * 🎓 Semester 3
-  - [📚Advanced programming methods](https://github.com/VladEnache7/Semester-3/tree/main/Metode%20Avansate%20de%20Programare) - java
-  - [📊Databases](https://github.com/912-enache-vlad/Dynamical-Systems) - sql
-  - [📐Computer Networks](https://github.com/912-enache-vlad/Geometry) - c/python
-  - [🔗Functional and logical programming](https://github.com/912-enache-vlad/Graph-Algorithms) - prolog/lisp
-  - [📦Probabilities and Statistics](https://github.com/912-enache-vlad/Object-Oriented-Programming) - octave/matlab
+  - [📚Advanced programming methods](https://github.com/VladEnache7/Semester-3/tree/main/Advanced%20programming%20methods) - java
+  - [📊Databases](https://github.com/VladEnache7/Semester-3/tree/main/Databases) - sql
+  - [📐Computer Networks](https://github.com/VladEnache7/Semester-3/tree/main/Computer%20Networks) - c/python
+  - [🔗Functional and logical programming](https://github.com/VladEnache7/Semester-3/tree/main/Functional%20and%20logical%20programming) - prolog/lisp
+  - [📦Probabilities and Statistics](https://github.com/VladEnache7/Semester-3/tree/main/Probabilities%20and%20Statistics) - octave/matlab
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
