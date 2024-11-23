@@ -12,24 +12,43 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 * 🎓 Semester 1
   - [➗Algebra](https://github.com/912-enache-vlad/Algebra/tree/main) 
   - [🧠Computational Logic](https://github.com/912-enache-vlad/Computational-Logic)
-  - [⚙️ Computer System Architecture](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - assembly
-  - [🐍Fundamentals of programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - python 
+  - [⚙️ Computer System Architecture](https://github.com/912-enache-vlad/Computer-Systems-Architecture/tree/main) - Assembly
+  - [🐍Fundamentals of programming](https://github.com/912-enache-vlad/Fundamentals-of-programming) - Python 
   - [📈Mathematical Analysis](https://github.com/912-enache-vlad/Mathematical-Analysis)
     
 * 🎓 Semester 2
-  - [📚Data Structures and Algorithms](https://github.com/912-enache-vlad/Data-Structures-and-Algorithms) - c++
-  - [📊Dyamical Systems](https://github.com/912-enache-vlad/Dynamical-Systems) - maple
-  - [📐Geometry](https://github.com/912-enache-vlad/Geometry) - maple
-  - [🔗Graphs](https://github.com/912-enache-vlad/Graph-Algorithms) - python/c++
-  - [📦Object-Oriented-Programming](https://github.com/912-enache-vlad/Object-Oriented-Programming) - c/c++
-  - [🔧Operating Systems](https://github.com/912-enache-vlad/Operating-Systems) - c
+  - [📚Data Structures and Algorithms](https://github.com/912-enache-vlad/Data-Structures-and-Algorithms) - C++
+  - [📊Dyamical Systems](https://github.com/912-enache-vlad/Dynamical-Systems) - Maple
+  - [📐Geometry](https://github.com/912-enache-vlad/Geometry) - Maple
+  - [🔗Graphs](https://github.com/912-enache-vlad/Graph-Algorithms) - Python, C++
+  - [📦Object-Oriented-Programming](https://github.com/912-enache-vlad/Object-Oriented-Programming) - C, C++
+  - [🔧Operating Systems](https://github.com/912-enache-vlad/Operating-Systems) - C
   - 
 * 🎓 Semester 3
-  - [📚Advanced programming methods](https://github.com/VladEnache7/Semester-3/tree/main/Advanced%20programming%20methods) - java
-  - [📊Databases](https://github.com/VladEnache7/Semester-3/tree/main/Databases) - sql
-  - [📐Computer Networks](https://github.com/VladEnache7/Semester-3/tree/main/Computer%20Networks) - c/python
-  - [🔗Functional and logical programming](https://github.com/VladEnache7/Semester-3/tree/main/Functional%20and%20logical%20programming) - prolog/lisp
-  - [📦Probabilities and Statistics](https://github.com/VladEnache7/Semester-3/tree/main/Probabilities%20and%20Statistics) - octave/matlab
+  - [📚Advanced programming methods](https://github.com/VladEnache7/Semester-3/tree/main/Advanced%20programming%20methods) - Java
+  - [📊Databases](https://github.com/VladEnache7/Semester-3/tree/main/Databases) - SQL
+  - [📐Computer Networks](https://github.com/VladEnache7/Semester-3/tree/main/Computer%20Networks) - C, Python
+  - [🔗Functional and logical programming](https://github.com/VladEnache7/Semester-3/tree/main/Functional%20and%20logical%20programming) - Prolog, Lisp
+  - [📦Probabilities and Statistics](https://github.com/VladEnache7/Semester-3/tree/main/Probabilities%20and%20Statistics) - Octave, Matlab
+
+* 🎓 Semester 4
+  - [📚Software Engineering (ISS)]() - teamwork - C#
+  - [📊Web Development]() - HTML, CSS, Angular, 
+  - [📐Artificial Intelligence]() - Python, Pytorch, Numpy,
+  - [🔗Database Management Systems]() - C#
+  - [📦Design and Programming Frameworks (MPP) ]() - React with MaterialUI + FastAPI
+
+* 🎓 Semester 5
+  - [📚Formal Languages and Compiler Design]() - Java
+  - [📊Parallel and Distributed Programming]() - C#, Java
+  - [📐Mobile Application]() - Flutter, Kotlin
+  - [🔗Public Key Criptography]() - Python
+  - [📦Research Project]() 
+    
+* 🎓 Semester 6
+  - [Software Systems Verification and Validation]()
+  - [Thesis Writing]()
+  - [Numerical Calculus]()
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
