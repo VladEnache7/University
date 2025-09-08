@@ -51,7 +51,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Numerical Calculus]()
   - 
 * 🎓 Bachlor Thesis
-  - [Thesis Paper] ()
+  - [Thesis Paper](https://github.com/VladEnache7/University/blob/main/Licenta%20Enache%20Ioan-Vlad.pdf)
   - [Thesis PowerPoint presentation] ()
 
 
