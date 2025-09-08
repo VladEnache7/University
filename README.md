@@ -49,6 +49,10 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Software Systems Verification and Validation]()
   - [Thesis Writing]()
   - [Numerical Calculus]()
+  - 
+* 🎓 Bachlor Thesis
+  - [Thesis Paper] ()
+  - [Thesis PowerPoint presentation] ()
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
