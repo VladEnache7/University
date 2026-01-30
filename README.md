@@ -39,11 +39,11 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [📦Design and Programming Frameworks (MPP) ](https://github.com/VladEnache7/SEMESTER-4/tree/main/MPP) - React with MaterialUI + FastAPI
 
 * 🎓 Semester 5
-  - [📚Formal Languages and Compiler Design]() - Java
+  - [📚Formal Languages and Compiler Design](https://github.com/VladEnache7/SEMESTER-5/tree/main/FLCD) - Java
   - [📊Parallel and Distributed Programming]() - C#, Java
   - [📐Mobile Application]() - Flutter, Kotlin
-  - [🔗Public Key Criptography]() - Python
-  - [📦Research Project]() 
+  - [🔗Public Key Criptography](https://github.com/VladEnache7/SEMESTER-5/tree/main/PKC) - Python
+  - [☁️ Cloud Application Architecture](https://github.com/VladEnache7/SEMESTER-5/tree/main/CAA)
     
 * 🎓 Semester 6
   - [Software Systems Verification and Validation]()
