@@ -23,7 +23,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [🔗Graphs](https://github.com/912-enache-vlad/Graph-Algorithms) - Python, C++
   - [📦Object-Oriented-Programming](https://github.com/912-enache-vlad/Object-Oriented-Programming) - C, C++
   - [🔧Operating Systems](https://github.com/912-enache-vlad/Operating-Systems) - C
-  - 
+  
 * 🎓 Semester 3
   - [📚Advanced programming methods](https://github.com/VladEnache7/Semester-3/tree/main/Advanced%20programming%20methods) - Java
   - [📊Databases](https://github.com/VladEnache7/Semester-3/tree/main/Databases) - SQL
@@ -32,11 +32,11 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [📦Probabilities and Statistics](https://github.com/VladEnache7/Semester-3/tree/main/Probabilities%20and%20Statistics) - Octave, Matlab
 
 * 🎓 Semester 4
-  - [📚Software Engineering (ISS)]() - teamwork - C#
-  - [📊Web Development]() - HTML, CSS, Angular, 
-  - [📐Artificial Intelligence]() - Python, Pytorch, Numpy,
-  - [🔗Database Management Systems]() - C#
-  - [📦Design and Programming Frameworks (MPP) ]() - React with MaterialUI + FastAPI
+  - [📚Software Engineering (ISS)](https://github.com/VladEnache7/SEMESTER-4/tree/main/ISS) - teamwork - C#
+  - [📊Web Development](https://github.com/VladEnache7/SEMESTER-4/tree/main/WEB%20Programming) - HTML, CSS, Angular, 
+  - [📐Artificial Intelligence](https://github.com/VladEnache7/SEMESTER-4/tree/main/Artificial%20Inteligence) - Python, Pytorch, Numpy,
+  - [🔗Database Management Systems](https://github.com/VladEnache7/SEMESTER-4/tree/main/DBMS) - C#
+  - [📦Design and Programming Frameworks (MPP) ](https://github.com/VladEnache7/SEMESTER-4/tree/main/MPP) - React with MaterialUI + FastAPI
 
 * 🎓 Semester 5
   - [📚Formal Languages and Compiler Design]() - Java
