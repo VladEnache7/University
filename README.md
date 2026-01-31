@@ -40,19 +40,19 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 
 * 🎓 Semester 5
   - [📚Formal Languages and Compiler Design](https://github.com/VladEnache7/SEMESTER-5/tree/main/FLCD) - Java
-  - [📊Parallel and Distributed Programming]() - C#, Java
-  - [📐Mobile Application]() - Flutter, Kotlin
+  - [📊Parallel and Distributed Programming](https://github.com/VladEnache7/SEMESTER-5/tree/main/PPD) - C#, Java
+  - [📐Mobile Application](https://github.com/VladEnache7/SEMESTER-5/tree/main/MA) - React, Kotlin
   - [🔗Public Key Criptography](https://github.com/VladEnache7/SEMESTER-5/tree/main/PKC) - Python
-  - [☁️ Cloud Application Architecture](https://github.com/VladEnache7/SEMESTER-5/tree/main/CAA)
+  - [☁️ Cloud Application Architecture](https://github.com/VladEnache7/SEMESTER-5/tree/main/CAA) - AWS Services
     
 * 🎓 Semester 6
-  - [Software Systems Verification and Validation](https://github.com/VladEnache7/SEMESTER-6/tree/main/Verificare%20si%20Validarea%20Sistemelor%20Soft)
+  - [Software Systems Verification and Validation](https://github.com/VladEnache7/SEMESTER-6/tree/main/Verificare%20si%20Validarea%20Sistemelor%20Soft) - Selenium, JUnit, NUnit, PyTest
   - [Numerical Calculus](https://github.com/VladEnache7/SEMESTER-6/tree/main/Calcul%20Numeric)
-  - [Artificial Intelligence Models for Climate Change](https://github.com/VladEnache7/SEMESTER-6/tree/main/AI_in_Climate_Change)
-  - [Understanding and Developing Large Language Models (LLMs)](https://github.com/VladEnache7/SEMESTER-6/tree/main/UDLLM)
-  - 
+  - [Artificial Intelligence Models for Climate Change](https://github.com/VladEnache7/SEMESTER-6/tree/main/AI_in_Climate_Change) - Python, Tensorflow
+  - [Understanding and Developing Large Language Models (LLMs)](https://github.com/VladEnache7/SEMESTER-6/tree/main/UDLLM) - LangChain 
+  
 * 🎓 Bachlor Thesis
-  - [Thesis Paper](https://github.com/VladEnache7/University/blob/main/Licenta%20Enache%20Ioan-Vlad.pdf)
+  - [Thesis Paper](https://github.com/VladEnache7/University/blob/main/Licenta%20Enache%20Ioan-Vlad.pdf) - Python, Gradio
   - [Thesis PowerPoint presentation](https://1drv.ms/p/c/9b723db0d75a940c/IQD4j5Gv51DISLJzQkN_AFiIAUDQIegSoFyrnbcO6gNOrwo?e=VIHP4c)
 
 
@@ -60,10 +60,10 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" alt="Logo 1" />
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python logo" />
-<img src="https://camo.githubusercontent.com/05657067105d9cbeb6ec490cb07b55187b6314827fe77597b5aace1f7a13cd7b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667" width="70" alt="Flutter logo" />
-<img src="https://camo.githubusercontent.com/935c145e37e41d6d66c6068d3129098c7841d5058b76d4143bb8fb0ddd80eba9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d61746c61622f6d61746c61622d6f726967696e616c2e737667" width="70" alt="Matlab logo" />
-<img src="https://camo.githubusercontent.com/79a7a8030b08cff9752b3c41ef9b0ff776fef1ce81d8450d830d4e810f271d7c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6b6f746c696e2f6b6f746c696e2d6f726967696e616c2e737667" width="70" alt="Kotlin logo" />
-<img src="https://camo.githubusercontent.com/2a6bb98dbcd03f1212800166be8668614684884f392782b3ac10a9d388924237/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667" width="70" alt="AngularJS logo" />
+
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" width="70" alt="Matlab logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="70" alt="Kotlin logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularjs/angularjs-original.svg" width="70" alt="AngularJS logo" />
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="React logo" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70" alt="HTML5" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="70" alt="CSS3" />
@@ -80,5 +80,6 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" alt="NPM logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="GitHub logo" />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" alt="Microsoft SQL Server" />
 </div>
 
