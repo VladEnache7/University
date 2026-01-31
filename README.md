@@ -53,7 +53,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - 
 * 🎓 Bachlor Thesis
   - [Thesis Paper](https://github.com/VladEnache7/University/blob/main/Licenta%20Enache%20Ioan-Vlad.pdf)
-  - [Thesis PowerPoint presentation] (https://1drv.ms/p/c/9b723db0d75a940c/IQD4j5Gv51DISLJzQkN_AFiIAUDQIegSoFyrnbcO6gNOrwo?e=VIHP4c)
+  - [Thesis PowerPoint presentation](https://1drv.ms/p/c/9b723db0d75a940c/IQD4j5Gv51DISLJzQkN_AFiIAUDQIegSoFyrnbcO6gNOrwo?e=VIHP4c)
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
