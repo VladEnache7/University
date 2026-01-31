@@ -46,13 +46,14 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [☁️ Cloud Application Architecture](https://github.com/VladEnache7/SEMESTER-5/tree/main/CAA)
     
 * 🎓 Semester 6
-  - [Software Systems Verification and Validation]()
-  - [Thesis Writing]()
-  - [Numerical Calculus]()
+  - [Software Systems Verification and Validation](https://github.com/VladEnache7/SEMESTER-6/tree/main/Verificare%20si%20Validarea%20Sistemelor%20Soft)
+  - [Numerical Calculus](https://github.com/VladEnache7/SEMESTER-6/tree/main/Calcul%20Numeric)
+  - [Artificial Intelligence Models for Climate Change](https://github.com/VladEnache7/SEMESTER-6/tree/main/AI_in_Climate_Change)
+  - [Understanding and Developing Large Language Models (LLMs)](https://github.com/VladEnache7/SEMESTER-6/tree/main/UDLLM)
   - 
 * 🎓 Bachlor Thesis
   - [Thesis Paper](https://github.com/VladEnache7/University/blob/main/Licenta%20Enache%20Ioan-Vlad.pdf)
-  - [Thesis PowerPoint presentation] ()
+  - [Thesis PowerPoint presentation] (https://1drv.ms/p/c/9b723db0d75a940c/IQD4j5Gv51DISLJzQkN_AFiIAUDQIegSoFyrnbcO6gNOrwo?e=VIHP4c)
 
 
 * Below is a list with all technologies that I have worked with either in my college or in my free time.
