@@ -1,0 +1,16 @@
+classes:
+  num_classes: 12
+
+model:
+  name: MyModel 
+  backbone: 
+    name: vit_base 
+    weights:  null
+    params:
+      patch_tokens: False
+  head: 
+    num_channels: 768
+    name: decoder_object_detection
+    weights: null
+    out_channels: 4
+  num_objects: 10 

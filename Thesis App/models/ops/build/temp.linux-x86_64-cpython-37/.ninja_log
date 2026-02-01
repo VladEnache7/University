@@ -1,0 +1,4 @@
+# ninja log v6
+0	6468	1747400345296759249	/teamspace/studios/this_studio/models/ops/build/temp.linux-x86_64-cpython-37/teamspace/studios/this_studio/models/ops/src/cpu/ms_deform_attn_cpu.o	e41cb1daac90d02
+1	17126	1747400345296759249	/teamspace/studios/this_studio/models/ops/build/temp.linux-x86_64-cpython-37/teamspace/studios/this_studio/models/ops/src/cuda/ms_deform_attn_cuda.o	9063d16afbb91b0c
+1	20511	1747400345296759249	/teamspace/studios/this_studio/models/ops/build/temp.linux-x86_64-cpython-37/teamspace/studios/this_studio/models/ops/src/vision.o	3b356369bccb8eb
